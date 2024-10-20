@@ -3,7 +3,7 @@
 ## How to run
 
 1. npm i
-2. sudo npm i -g npx (if no npx installed)
+2. npm i -g npx (if no npx installed, you might need to add sudo for Mac)
 3. npm install -g ts-node (if no ts-node installed)
 4. npm run start
 
